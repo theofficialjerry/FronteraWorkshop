@@ -1,0 +1,4575 @@
+[
+  {
+    "id": "swsh3-2",
+    "name": "Butterfree VMAX",
+    "hp": "300",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Butterfree V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Toxbreeze",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/2.png",
+      "large": "https://images.pokemontcg.io/swsh3/2_hires.png"
+    }
+  },
+  {
+    "id": "swsh35-15",
+    "name": "Drednaw VMAX",
+    "hp": "320",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Drednaw V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Solid Shell",
+        "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Headbutt",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160+",
+        "text": "Flip a coin. If heads, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh35/15.png",
+      "large": "https://images.pokemontcg.io/swsh35/15_hires.png"
+    }
+  },
+  {
+    "id": "swsh35-17",
+    "name": "Gardevoir VMAX",
+    "hp": "320",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Gardevoir V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Cure",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "Heal 50 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh35/17.png",
+      "large": "https://images.pokemontcg.io/swsh35/17_hires.png"
+    }
+  },
+  {
+    "id": "swsh2-18",
+    "name": "Rillaboom VMAX",
+    "hp": "330",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Rillaboom V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Scratch",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Max Beating",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "130+",
+        "text": "You may discard up to 3 Grass Energy from this Pokémon. If you do, this attack does 50 more damage for each card you discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh2/18.png",
+      "large": "https://images.pokemontcg.io/swsh2/18_hires.png"
+    }
+  },
+  {
+    "id": "swsh35-23",
+    "name": "Alcremie VMAX",
+    "hp": "310",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Alcremie V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Adornment",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "For each of your Benched Pokémon, search your deck for a Psychic Energy card and attach it to that Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "G-Max Whisk",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60×",
+        "text": "Discard any amount of Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh35/23.png",
+      "large": "https://images.pokemontcg.io/swsh35/23_hires.png"
+    }
+  },
+  {
+    "id": "swsh3-20",
+    "name": "Charizard VMAX",
+    "hp": "330",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Charizard V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": ""
+      },
+      {
+        "name": "G-Max Wildfire",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "300",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/20.png",
+      "large": "https://images.pokemontcg.io/swsh3/20_hires.png"
+    }
+  },
+  {
+    "id": "swsh4-21",
+    "name": "Orbeetle VMAX",
+    "hp": "310",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Orbeetle V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Eerie Beam",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may put 1 damage counter on each of your opponent's Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Wave",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50+",
+        "text": "This attack does 50 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/21.png",
+      "large": "https://images.pokemontcg.io/swsh4/21_hires.png"
+    }
+  },
+  {
+    "id": "swsh4-37",
+    "name": "Galarian Darmanitan VMAX",
+    "hp": "320",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Galarian Darmanitan V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Whiteout",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "200",
+        "text": "This attack also does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/37.png",
+      "large": "https://images.pokemontcg.io/swsh4/37_hires.png"
+    }
+  },
+  {
+    "id": "swsh3-34",
+    "name": "Centiskorch VMAX",
+    "hp": "320",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Centiskorch V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Centiferno",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40+",
+        "text": "This attack does 40 more damage for each Fire Energy attached to this Pokémon. If you did any damage with this attack, you may attach a Fire Energy card from your discard pile to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/34.png",
+      "large": "https://images.pokemontcg.io/swsh3/34_hires.png"
+    }
+  },
+  {
+    "id": "swsh2-36",
+    "name": "Cinderace VMAX",
+    "hp": "320",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Cinderace V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Counter",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30+",
+        "text": "If this Pokémon was damaged by an attack during your opponent's last turn, this attack does that much more damage."
+      },
+      {
+        "name": "Max Pyro Ball",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "170",
+        "text": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh2/36.png",
+      "large": "https://images.pokemontcg.io/swsh2/36_hires.png"
+    }
+  },
+  {
+    "id": "swsh4-44",
+    "name": "Pikachu VMAX",
+    "hp": "310",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Pikachu V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Volt Tackle",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120+",
+        "text": "You may discard all Energy from this Pokémon. If you do, this attack does 150 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/44.png",
+      "large": "https://images.pokemontcg.io/swsh4/44_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-50",
+    "name": "Lapras VMAX",
+    "hp": "320",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Lapras V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Pump",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90+",
+        "text": "This attack does 30 more damage for each Water Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/50.png",
+      "large": "https://images.pokemontcg.io/swsh1/50_hires.png"
+    }
+  },
+  {
+    "id": "swsh2-50",
+    "name": "Inteleon VMAX",
+    "hp": "320",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Inteleon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Hydro Snipe",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60",
+        "text": "You may put an Energy attached to your opponent's Active Pokémon into their hand."
+      },
+      {
+        "name": "Max Bullet",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": "This attack also does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh2/50.png",
+      "large": "https://images.pokemontcg.io/swsh2/50_hires.png"
+    }
+  },
+  {
+    "id": "swsh2-71",
+    "name": "Toxtricity VMAX",
+    "hp": "320",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Toxtricity V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Riot",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160+",
+        "text": "If your opponent's Active Pokémon is Poisoned, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh2/71.png",
+      "large": "https://images.pokemontcg.io/swsh2/71_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-80",
+    "name": "Morpeko VMAX",
+    "hp": "300",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Morpeko V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Discharge",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "This attack also does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/80.png",
+      "large": "https://images.pokemontcg.io/swsh1/80_hires.png"
+    }
+  },
+  {
+    "id": "swsh2-93",
+    "name": "Dragapult VMAX",
+    "hp": "320",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Dragapult V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Shred",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      },
+      {
+        "name": "Max Phantom",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "130",
+        "text": "Put 5 damage counters on your opponent's Benched Pokémon in any way you like."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh2/93.png",
+      "large": "https://images.pokemontcg.io/swsh2/93_hires.png"
+    }
+  },
+  {
+    "id": "swsh4-99",
+    "name": "Coalossal VMAX",
+    "hp": "330",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Coalossal V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Eruption Shot",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40+",
+        "text": "Discard the top card of your deck. If that card is an Energy card, this attack does 90 more damage, and attach that card to this Pokémon."
+      },
+      {
+        "name": "G-Max Boulder",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "240",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/99.png",
+      "large": "https://images.pokemontcg.io/swsh4/99_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-116",
+    "name": "Stonjourner VMAX",
+    "hp": "330",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Stonjourner V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Stone Gift",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach a Fighting Energy card from your hand to 1 of your Pokémon. If you do, heal 120 damage from that Pokémon."
+      },
+      {
+        "name": "Max Rockfall",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/116.png",
+      "large": "https://images.pokemontcg.io/swsh1/116_hires.png"
+    }
+  },
+  {
+    "id": "swsh2-122",
+    "name": "Malamar VMAX",
+    "hp": "310",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Malamar V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Jammer",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "Your opponent reveals their hand. Choose a card you find there and put it on the bottom of their deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh2/122.png",
+      "large": "https://images.pokemontcg.io/swsh2/122_hires.png"
+    }
+  },
+  {
+    "id": "swsh3-115",
+    "name": "Grimmsnarl VMAX",
+    "hp": "330",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Grimmsnarl V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Drill",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "170+",
+        "text": "This attack does 50 more damage for each extra Darkness Energy attached to this Pokémon (in addition to this attack's cost). You can't add more than 100 damage in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/115.png",
+      "large": "https://images.pokemontcg.io/swsh3/115_hires.png"
+    }
+  },
+  {
+    "id": "swsh3-117",
+    "name": "Eternatus VMAX",
+    "hp": "340",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Eternatus V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Eternal Zone",
+        "text": "If all of your Pokémon in play are Darkness type, you can have up to 8 Pokémon on your Bench, and you can't put non-Darkness Pokémon into play. (If this Ability stops working, discard Pokémon from your Bench until you have 5.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Dread End",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "This attack does 30 damage for each of your Darkness Pokémon in play."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/117.png",
+      "large": "https://images.pokemontcg.io/swsh3/117_hires.png"
+    }
+  },
+  {
+    "id": "swsh3-119",
+    "name": "Scizor VMAX",
+    "hp": "320",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Scizor V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Hard Scissors",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "90",
+        "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+      },
+      {
+        "name": "Max Steelspike",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "190",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/119.png",
+      "large": "https://images.pokemontcg.io/swsh3/119_hires.png"
+    }
+  },
+  {
+    "id": "swsh4-127",
+    "name": "Aegislash VMAX",
+    "hp": "320",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Aegislash V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Hack",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160+",
+        "text": "This attack does 30 more damage for each Prize card you have taken."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/127.png",
+      "large": "https://images.pokemontcg.io/swsh4/127_hires.png"
+    }
+  },
+  {
+    "id": "swsh2-137",
+    "name": "Copperajah VMAX",
+    "hp": "340",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Copperajah V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Dangerous Nose",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100+",
+        "text": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 100 more damage."
+      },
+      {
+        "name": "G-Max Hammer",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "240",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh2/137.png",
+      "large": "https://images.pokemontcg.io/swsh2/137_hires.png"
+    }
+  },
+  {
+    "id": "swsh4-141",
+    "name": "Togekiss VMAX",
+    "hp": "310",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Togekiss V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Glide",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/141.png",
+      "large": "https://images.pokemontcg.io/swsh4/141_hires.png"
+    }
+  },
+  {
+    "id": "swsh1-142",
+    "name": "Snorlax VMAX",
+    "hp": "340",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Snorlax V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Fall",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60+",
+        "text": "This attack does 30 more damage for each of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/142.png",
+      "large": "https://images.pokemontcg.io/swsh1/142_hires.png"
+    }
+  },
+  {
+    "id": "swsh3-144",
+    "name": "Salamence VMAX",
+    "hp": "320",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Salamence V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Sonic Double",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 40 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Max Wings",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "240",
+        "text": "During your next turn, this Pokémon can't use Max Wings."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/144.png",
+      "large": "https://images.pokemontcg.io/swsh3/144_hires.png"
+    }
+  },
+  {
+    "id": "swsh45-10",
+    "name": "Dhelmise VMAX",
+    "hp": "330",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Dhelmise V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Swinging Chain",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 30 damage to 1 of your opponent's Pokémon for each Grass Energy attached to this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Max Anchor",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "240",
+        "text": "During your next turn, this Pokémon can't use Max Anchor."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/10.png",
+      "large": "https://images.pokemontcg.io/swsh45/10_hires.png"
+    }
+  },
+  {
+    "id": "swsh45-38",
+    "name": "Morpeko VMAX",
+    "hp": "300",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Morpeko V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Discharge",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "This attack also does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/38.png",
+      "large": "https://images.pokemontcg.io/swsh45/38_hires.png"
+    }
+  },
+  {
+    "id": "swsh45-19",
+    "name": "Cinderace VMAX",
+    "hp": "320",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Cinderace V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Counter",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30+",
+        "text": "If this Pokémon was damaged by an attack during your opponent's last turn, this attack does that much more damage."
+      },
+      {
+        "name": "Max Pyro Ball",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "170",
+        "text": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/19.png",
+      "large": "https://images.pokemontcg.io/swsh45/19_hires.png"
+    }
+  },
+  {
+    "id": "swsh45-45",
+    "name": "Crobat VMAX",
+    "hp": "300",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Crobat V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Stealth Poison",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70",
+        "text": "Your opponent's Active Pokémon is now Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Max Cutter",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/45.png",
+      "large": "https://images.pokemontcg.io/swsh45/45_hires.png"
+    }
+  },
+  {
+    "id": "swsh45-51",
+    "name": "Ditto VMAX",
+    "hp": "320",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Ditto V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Transform",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/51.png",
+      "large": "https://images.pokemontcg.io/swsh45/51_hires.png"
+    }
+  },
+  {
+    "id": "swsh45sv-SV107",
+    "name": "Charizard VMAX",
+    "hp": "330",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Charizard V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": ""
+      },
+      {
+        "name": "G-Max Wildfire",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "300",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45sv/SV107.png",
+      "large": "https://images.pokemontcg.io/swsh45sv/SV107_hires.png"
+    }
+  },
+  {
+    "id": "swsh45sv-SV117",
+    "name": "Grimmsnarl VMAX",
+    "hp": "330",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Grimmsnarl V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Drill",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "170+",
+        "text": "This attack does 50 more damage for each extra Darkness Energy attached to this Pokémon (in addition to this attack's cost). You can't add more than 100 damage in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45sv/SV117.png",
+      "large": "https://images.pokemontcg.io/swsh45sv/SV117_hires.png"
+    }
+  },
+  {
+    "id": "swsh45sv-SV111",
+    "name": "Lapras VMAX",
+    "hp": "320",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Lapras V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Pump",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90+",
+        "text": "This attack does 30 more damage for each Water Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45sv/SV111.png",
+      "large": "https://images.pokemontcg.io/swsh45sv/SV111_hires.png"
+    }
+  },
+  {
+    "id": "swsh45sv-SV119",
+    "name": "Ditto VMAX",
+    "hp": "320",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Ditto V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Transform",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45sv/SV119.png",
+      "large": "https://images.pokemontcg.io/swsh45sv/SV119_hires.png"
+    }
+  },
+  {
+    "id": "swsh5-22",
+    "name": "Victini VMAX",
+    "hp": "310",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Victini V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Spreading Flames",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 3 Fire Energy cards from your discard pile to your Pokémon in any way you like."
+      },
+      {
+        "name": "Max Victory",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "100+",
+        "text": "If your opponent's Active Pokémon is a Pokémon V, this attack does 120 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/22.png",
+      "large": "https://images.pokemontcg.io/swsh5/22_hires.png"
+    }
+  },
+  {
+    "id": "swsh5-86",
+    "name": "Single Strike Urshifu VMAX",
+    "hp": "330",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Single Strike Urshifu V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Beatdown",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": ""
+      },
+      {
+        "name": "G-Max One Blow",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "270",
+        "text": "Discard all Energy from this Pokémon. This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/86.png",
+      "large": "https://images.pokemontcg.io/swsh5/86_hires.png"
+    }
+  },
+  {
+    "id": "swsh5-88",
+    "name": "Rapid Strike Urshifu VMAX",
+    "hp": "330",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Rapid Strike Urshifu V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Gale Thrust",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30+",
+        "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 120 more damage."
+      },
+      {
+        "name": "G-Max Rapid Flow",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Discard all Energy from this Pokémon. This attack does 120 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/88.png",
+      "large": "https://images.pokemontcg.io/swsh5/88_hires.png"
+    }
+  },
+  {
+    "id": "swsh45sv-SV109",
+    "name": "Centiskorch VMAX",
+    "hp": "320",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Centiskorch V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Centiferno",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40+",
+        "text": "This attack does 40 more damage for each Fire Energy attached to this Pokémon. If you did any damage with this attack, you may attach a Fire Energy card from your discard pile to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45sv/SV109.png",
+      "large": "https://images.pokemontcg.io/swsh45sv/SV109_hires.png"
+    }
+  },
+  {
+    "id": "swsh45sv-SV113",
+    "name": "Toxtricity VMAX",
+    "hp": "320",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Toxtricity V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Riot",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160+",
+        "text": "If your opponent's Active Pokémon is Poisoned, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45sv/SV113.png",
+      "large": "https://images.pokemontcg.io/swsh45sv/SV113_hires.png"
+    }
+  },
+  {
+    "id": "swsh5-19",
+    "name": "Flapple VMAX",
+    "hp": "320",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Flapple V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Rolling",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "250-",
+        "text": "This attack does 10 less damage for each damage counter on this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/19.png",
+      "large": "https://images.pokemontcg.io/swsh5/19_hires.png"
+    }
+  },
+  {
+    "id": "swsh45-55",
+    "name": "Cramorant VMAX",
+    "hp": "320",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Cramorant V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Jet",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80×",
+        "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 80 damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/55.png",
+      "large": "https://images.pokemontcg.io/swsh45/55_hires.png"
+    }
+  },
+  {
+    "id": "swsh45sv-SV106",
+    "name": "Rillaboom VMAX",
+    "hp": "330",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Rillaboom V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Scratch",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Max Beating",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "130+",
+        "text": "You may discard up to 3 Grass Energy from this Pokémon. If you do, this attack does 50 more damage for each card you discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45sv/SV106.png",
+      "large": "https://images.pokemontcg.io/swsh45sv/SV106_hires.png"
+    }
+  },
+  {
+    "id": "swsh5-51",
+    "name": "Tapu Koko VMAX",
+    "hp": "320",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Tapu Koko V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Shock",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "If you have more Prize cards remaining than your opponent, their Active Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/51.png",
+      "large": "https://images.pokemontcg.io/swsh5/51_hires.png"
+    }
+  },
+  {
+    "id": "swsh6-8",
+    "name": "Celebi VMAX",
+    "hp": "310",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Celebi V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Curative Forest",
+        "text": "Once during your turn, you may heal 20 damage from each of your Grass Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Plant",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "130",
+        "text": "Search your deck for up to 2 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/8.png",
+      "large": "https://images.pokemontcg.io/swsh6/8_hires.png"
+    }
+  },
+  {
+    "id": "swsh6-21",
+    "name": "Blaziken VMAX",
+    "hp": "320",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Blaziken V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Clutch",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      },
+      {
+        "name": "Max Blaze",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "130",
+        "text": "Choose up to 2 of your Benched Rapid Strike Pokémon and attach an Energy card from your discard pile to each of them."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/21.png",
+      "large": "https://images.pokemontcg.io/swsh6/21_hires.png"
+    }
+  },
+  {
+    "id": "swsh6-75",
+    "name": "Shadow Rider Calyrex VMAX",
+    "hp": "320",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Shadow Rider Calyrex V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Underworld Door",
+        "text": "Once during your turn, you may attach a Psychic Energy card from your hand to 1 of your Benched Psychic Pokémon. If you attached Energy to a Pokémon in this way, draw 2 cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Geist",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "10+",
+        "text": "This attack does 30 more damage for each Psychic Energy attached to all of your Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/75.png",
+      "large": "https://images.pokemontcg.io/swsh6/75_hires.png"
+    }
+  },
+  {
+    "id": "swsh6-100",
+    "name": "Galarian Slowking VMAX",
+    "hp": "320",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Galarian Slowking V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Toxify",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 12 damage counters on that Pokémon instead of 1."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/100.png",
+      "large": "https://images.pokemontcg.io/swsh6/100_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-92",
+    "name": "Lycanroc VMAX",
+    "hp": "320",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Lycanroc V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Hunting Claw",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Knock Out 1 of your opponent's Pokémon in play that has 60 HP or less remaining."
+      },
+      {
+        "name": "Max Edge",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "190",
+        "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/92.png",
+      "large": "https://images.pokemontcg.io/swsh7/92_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-123",
+    "name": "Duraludon VMAX",
+    "hp": "330",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Duraludon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Skyscraper",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have Special Energy attached.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Pulverization",
+        "cost": [
+          "Fighting",
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "220",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/123.png",
+      "large": "https://images.pokemontcg.io/swsh7/123_hires.png"
+    }
+  },
+  {
+    "id": "swsh6-90",
+    "name": "Sandaconda VMAX",
+    "hp": "320",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Sandaconda V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Sand Pulse",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60",
+        "text": "This attack also does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "G-Max Cyclone",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "Move any amount of Energy from your Pokémon to your other Pokémon in any way you like."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/90.png",
+      "large": "https://images.pokemontcg.io/swsh6/90_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-30",
+    "name": "Vaporeon VMAX",
+    "hp": "320",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Vaporeon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Bubble Pod",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Put a Water Pokémon from your discard pile onto your Bench. If you do, attach up to 3 Water Energy cards from your discard pile to that Pokémon."
+      },
+      {
+        "name": "Max Torrent",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100+",
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 100 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/30.png",
+      "large": "https://images.pokemontcg.io/swsh7/30_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-18",
+    "name": "Flareon VMAX",
+    "hp": "320",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Flareon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Detonate",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100×",
+        "text": "Discard the top 5 cards of your deck. This attack does 100 damage for each Energy card you discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/18.png",
+      "large": "https://images.pokemontcg.io/swsh7/18_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-51",
+    "name": "Jolteon VMAX",
+    "hp": "300",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Jolteon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Max Thunder Rumble",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "100",
+        "text": "This attack also does 100 damage to 1 of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/51.png",
+      "large": "https://images.pokemontcg.io/swsh7/51_hires.png"
+    }
+  },
+  {
+    "id": "swsh5-110",
+    "name": "Corviknight VMAX",
+    "hp": "320",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Corviknight V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Lustrous Body",
+        "text": "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Hurricane",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "240",
+        "text": "During your next turn, this Pokémon can't use G-Max Hurricane."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/110.png",
+      "large": "https://images.pokemontcg.io/swsh5/110_hires.png"
+    }
+  },
+  {
+    "id": "swsh6-46",
+    "name": "Ice Rider Calyrex VMAX",
+    "hp": "320",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Ice Rider Calyrex V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Ride of the High King",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "This attack does 30 more damage for each of your opponent's Benched Pokémon."
+      },
+      {
+        "name": "Max Lance",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "You may discard up to 2 Energy from this Pokémon. If you do, this attack does 120 more damage for each card you discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/46.png",
+      "large": "https://images.pokemontcg.io/swsh6/46_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-8",
+    "name": "Leafeon VMAX",
+    "hp": "310",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Leafeon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Grass Knot",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60×",
+        "text": "This attack does 60 damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+      },
+      {
+        "name": "Max Leaf",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "170",
+        "text": "Heal 30 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/8.png",
+      "large": "https://images.pokemontcg.io/swsh7/8_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-14",
+    "name": "Trevenant VMAX",
+    "hp": "320",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Trevenant V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Missing in the Forest",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40×",
+        "text": "This attack does 40 damage for each Supporter card in your opponent's discard pile."
+      },
+      {
+        "name": "Max Tree",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/14.png",
+      "large": "https://images.pokemontcg.io/swsh7/14_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-59",
+    "name": "Dracozolt VMAX",
+    "hp": "330",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Dracozolt V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Spark Trap",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60",
+        "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if it is Knocked Out), put 12 damage counters on the Attacking Pokémon."
+      },
+      {
+        "name": "Max Impact",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "200",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/59.png",
+      "large": "https://images.pokemontcg.io/swsh7/59_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-29",
+    "name": "Gyarados VMAX",
+    "hp": "330",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Gyarados V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Hyper Beam",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "Discard an Energy from your opponent's Active Pokémon."
+      },
+      {
+        "name": "Max Tyrant",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "240",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/29.png",
+      "large": "https://images.pokemontcg.io/swsh7/29_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-65",
+    "name": "Espeon VMAX",
+    "hp": "310",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Espeon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Solar Revelation",
+        "text": "Prevent all effects of attacks from your opponent's Pokémon done to all of your Pokémon that have Energy attached.(Existing effects are not removed. Damage is not an effect.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Mindstorm",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60×",
+        "text": "This attack does 60 damage for each Energy attached to all of your opponent's Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/65.png",
+      "large": "https://images.pokemontcg.io/swsh7/65_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-75",
+    "name": "Sylveon VMAX",
+    "hp": "310",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Sylveon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Precious Touch",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach an Energy card from your hand to 1 of your Benched Pokémon. If you do, heal 120 damage from that Pokémon."
+      },
+      {
+        "name": "Max Harmony",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70+",
+        "text": "This attack does 30 more damage for each different type of Pokémon on your Bench."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/75.png",
+      "large": "https://images.pokemontcg.io/swsh7/75_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-95",
+    "name": "Umbreon VMAX",
+    "hp": "310",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Umbreon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Dark Signal",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Darkness",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/95.png",
+      "large": "https://images.pokemontcg.io/swsh7/95_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-101",
+    "name": "Garbodor VMAX",
+    "hp": "330",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Garbodor V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Rubbish Collecting",
+        "text": "This Pokémon may have up to 2 Pokémon Tools attached to it. If it loses this Ability, discard Pokémon Tools from it until only 1 remains.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Malodor",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": "Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, that Pokémon can't retreat."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/101.png",
+      "large": "https://images.pokemontcg.io/swsh7/101_hires.png"
+    }
+  },
+  {
+    "id": "swsh6-113",
+    "name": "Metagross VMAX",
+    "hp": "330",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Metagross V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Zap Traction",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "Max Rush",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "100",
+        "text": "During your next turn, this Pokémon's Max Rush attack does 150 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/113.png",
+      "large": "https://images.pokemontcg.io/swsh6/113_hires.png"
+    }
+  },
+  {
+    "id": "swsh6-125",
+    "name": "Tornadus VMAX",
+    "hp": "320",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Tornadus V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Blasting Wind",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": ""
+      },
+      {
+        "name": "Max Wind Spirit",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "120+",
+        "text": "If a Stadium is in play, this attack does 120 more damage. Then, discard that Stadium."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/125.png",
+      "large": "https://images.pokemontcg.io/swsh6/125_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-41",
+    "name": "Glaceon VMAX",
+    "hp": "310",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Glaceon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Crystal Veil",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon VMAX, except any Glaceon VMAX.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Icicle",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/41.png",
+      "large": "https://images.pokemontcg.io/swsh7/41_hires.png"
+    }
+  },
+  {
+    "id": "swsh7-111",
+    "name": "Rayquaza VMAX",
+    "hp": "320",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Rayquaza V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Azure Pulse",
+        "text": "Once during your turn, you may discard your hand and draw 3 cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Burst",
+        "cost": [
+          "Fire",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/111.png",
+      "large": "https://images.pokemontcg.io/swsh7/111_hires.png"
+    }
+  },
+  {
+    "id": "cel25-9",
+    "name": "Surfing Pikachu VMAX",
+    "hp": "310",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Surfing Pikachu V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Max Surfer",
+        "damage": "160",
+        "text": "This attack also does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/9.png",
+      "large": "https://images.pokemontcg.io/cel25/9_hires.png"
+    }
+  },
+  {
+    "id": "cel25-7",
+    "name": "Flying Pikachu VMAX",
+    "hp": "310",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Flying Pikachu V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Max Balloon",
+        "damage": "160",
+        "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/cel25/7.png",
+      "large": "https://images.pokemontcg.io/cel25/7_hires.png"
+    }
+  },
+  {
+    "id": "swsh8-45",
+    "name": "Cinderace VMAX",
+    "hp": "320",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Cinderace V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Fireball",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "230",
+        "text": "Your opponent's Active Pokémon is now Burned. During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh8/45.png",
+      "large": "https://images.pokemontcg.io/swsh8/45_hires.png"
+    }
+  },
+  {
+    "id": "swsh8-23",
+    "name": "Rillaboom VMAX",
+    "hp": "330",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Rillaboom V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Drum Solo",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "180",
+        "text": "This attack also does 40 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh8/23.png",
+      "large": "https://images.pokemontcg.io/swsh8/23_hires.png"
+    }
+  },
+  {
+    "id": "swsh8-40",
+    "name": "Chandelure VMAX",
+    "hp": "320",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Chandelure V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Cursed Shimmer",
+        "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Pokémon Tool cards from their hand.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Poltergeist",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70×",
+        "text": "Your opponent reveals their hand. This attack does 70 damage for each Trainer card you find there."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh8/40.png",
+      "large": "https://images.pokemontcg.io/swsh8/40_hires.png"
+    }
+  },
+  {
+    "id": "swsh8-104",
+    "name": "Boltund VMAX",
+    "hp": "320",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Boltund V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Bolt Storm",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30+",
+        "text": "This attack does 30 more damage for each Lightning Energy attached to all of your Pokémon."
+      },
+      {
+        "name": "Max Bolt",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "230",
+        "text": "During your next turn, this Pokémon can't use Max Bolt."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh8/104.png",
+      "large": "https://images.pokemontcg.io/swsh8/104_hires.png"
+    }
+  },
+  {
+    "id": "swsh8-218",
+    "name": "Greedent VMAX",
+    "hp": "320",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Greedent V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Turn a Profit",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "If your opponent's Basic Pokémon is Knocked Out by damage from this attack, take 2 more Prize cards."
+      },
+      {
+        "name": "Max Gimme Gimme",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": "Draw 3 cards."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh8/218.png",
+      "large": "https://images.pokemontcg.io/swsh8/218_hires.png"
+    }
+  },
+  {
+    "id": "swsh8-79",
+    "name": "Inteleon VMAX",
+    "hp": "320",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Inteleon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Double Gunner",
+        "text": "You must discard a Water Energy card from your hand in order to use this Ability. Once during your turn, you may choose 2 of your opponent's Benched Pokémon and put 2 damage counters on each of them.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Spiral",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70+",
+        "text": "You may put an Energy attached to this Pokémon into your hand. If you do, this attack does 70 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh8/79.png",
+      "large": "https://images.pokemontcg.io/swsh8/79_hires.png"
+    }
+  },
+  {
+    "id": "swsh8-114",
+    "name": "Mew VMAX",
+    "hp": "310",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Mew V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Cross Fusion Strike",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Choose 1 of your Benched Fusion Strike Pokémon's attacks and use it as this attack."
+      },
+      {
+        "name": "Max Miracle",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "130",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh8/114.png",
+      "large": "https://images.pokemontcg.io/swsh8/114_hires.png"
+    }
+  },
+  {
+    "id": "swsh8-157",
+    "name": "Gengar VMAX",
+    "hp": "320",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Gengar V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Fear and Panic",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60×",
+        "text": "This attack does 60 damage for each of your opponent's Pokémon V and Pokémon-GX in play."
+      },
+      {
+        "name": "G-Max Swallow Up",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "250",
+        "text": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh8/157.png",
+      "large": "https://images.pokemontcg.io/swsh8/157_hires.png"
+    }
+  },
+  {
+    "id": "swsh9-97",
+    "name": "Aggron VMAX",
+    "hp": "330",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Aggron V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Cracking Stomp",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "Discard the top card of your opponent's deck."
+      },
+      {
+        "name": "Max Take Down",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "270",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/97.png",
+      "large": "https://images.pokemontcg.io/swsh9/97_hires.png"
+    }
+  },
+  {
+    "id": "swsh9-29",
+    "name": "Kingler VMAX",
+    "hp": "330",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Kingler V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Bubbles Galore",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 5 Water Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck."
+      },
+      {
+        "name": "G-Max Pincer",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "240",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/29.png",
+      "large": "https://images.pokemontcg.io/swsh9/29_hires.png"
+    }
+  },
+  {
+    "id": "swsh9-69",
+    "name": "Mimikyu VMAX",
+    "hp": "300",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Mimikyu V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Ominous Numbers",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Put 4 damage counters on your opponent's Pokémon in any way you like. If you played Acerola's Premonition from your hand during this turn, place 13 damage counters instead."
+      },
+      {
+        "name": "Max Shadow",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": "Discard a random card from your opponent's hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/69.png",
+      "large": "https://images.pokemontcg.io/swsh9/69_hires.png"
+    }
+  },
+  {
+    "id": "swsh9tg-TG15",
+    "name": "Sylveon VMAX",
+    "hp": "310",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Sylveon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Precious Touch",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach an Energy card from your hand to 1 of your Benched Pokémon. If you do, heal 120 damage from that Pokémon."
+      },
+      {
+        "name": "Max Harmony",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70+",
+        "text": "This attack does 30 more damage for each different type of Pokémon on your Bench."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9tg/TG15.png",
+      "large": "https://images.pokemontcg.io/swsh9tg/TG15_hires.png"
+    }
+  },
+  {
+    "id": "swsh9tg-TG19",
+    "name": "Single Strike Urshifu VMAX",
+    "hp": "330",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Single Strike Urshifu V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Beatdown",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": ""
+      },
+      {
+        "name": "G-Max One Blow",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "270",
+        "text": "Discard all Energy from this Pokémon. This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9tg/TG19.png",
+      "large": "https://images.pokemontcg.io/swsh9tg/TG19_hires.png"
+    }
+  },
+  {
+    "id": "swsh9tg-TG17",
+    "name": "Mimikyu VMAX",
+    "hp": "300",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Mimikyu V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Ominous Numbers",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Put 4 damage counters on your opponent's Pokémon in any way you like. If you played Acerola's Premonition from your hand during this turn, place 13 damage counters instead."
+      },
+      {
+        "name": "Max Shadow",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": "Discard a random card from your opponent's hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9tg/TG17.png",
+      "large": "https://images.pokemontcg.io/swsh9tg/TG17_hires.png"
+    }
+  },
+  {
+    "id": "swsh9tg-TG21",
+    "name": "Rapid Strike Urshifu VMAX",
+    "hp": "330",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Rapid Strike Urshifu V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Gale Thrust",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30+",
+        "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 120 more damage."
+      },
+      {
+        "name": "G-Max Rapid Flow",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Discard all Energy from this Pokémon. This attack does 120 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9tg/TG21.png",
+      "large": "https://images.pokemontcg.io/swsh9tg/TG21_hires.png"
+    }
+  },
+  {
+    "id": "swsh9tg-TG23",
+    "name": "Umbreon VMAX",
+    "hp": "310",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Umbreon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Dark Signal",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Darkness",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9tg/TG23.png",
+      "large": "https://images.pokemontcg.io/swsh9tg/TG23_hires.png"
+    }
+  },
+  {
+    "id": "swsh10-73",
+    "name": "Machamp VMAX",
+    "hp": "330",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Machamp V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Revenge Buster",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "80+",
+        "text": "If your Benched Pokémon have any damage counters on them, this attack does 140 more damage."
+      },
+      {
+        "name": "G-Max Chi Strike",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "240",
+        "text": "During your next turn, this Pokémon can't use G-Max Chi Strike."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh10/73.png",
+      "large": "https://images.pokemontcg.io/swsh10/73_hires.png"
+    }
+  },
+  {
+    "id": "swsh10-26",
+    "name": "Heatran VMAX",
+    "hp": "330",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Heatran V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Magma Gain",
+        "text": "Once during your turn, if you have a Stadium in play, you may heal 50 damage from this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Heat Burst",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh10/26.png",
+      "large": "https://images.pokemontcg.io/swsh10/26_hires.png"
+    }
+  },
+  {
+    "id": "swsh10tg-TG15",
+    "name": "Ice Rider Calyrex VMAX",
+    "hp": "320",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Ice Rider Calyrex V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Ride of the High King",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "This attack does 30 more damage for each of your opponent's Benched Pokémon."
+      },
+      {
+        "name": "Max Lance",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "You may discard up to 2 Energy from this Pokémon. If you do, this attack does 120 more damage for each card you discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh10tg/TG15.png",
+      "large": "https://images.pokemontcg.io/swsh10tg/TG15_hires.png"
+    }
+  },
+  {
+    "id": "swsh10tg-TG18",
+    "name": "Shadow Rider Calyrex VMAX",
+    "hp": "320",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Shadow Rider Calyrex V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Underworld Door",
+        "text": "Once during your turn, you may attach a Psychic Energy card from your hand to 1 of your Benched Psychic Pokémon. If you attached Energy to a Pokémon in this way, draw 2 cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Geist",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "10+",
+        "text": "This attack does 30 more damage for each Psychic Energy attached to all of your Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh10tg/TG18.png",
+      "large": "https://images.pokemontcg.io/swsh10tg/TG18_hires.png"
+    }
+  },
+  {
+    "id": "pgo-48",
+    "name": "Melmetal VMAX",
+    "hp": "330",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Melmetal V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Juggernaut",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160+",
+        "text": "This attack does 60 more damage for each extra Metal Energy attached to this Pokémon (in addition to this attack's cost). You can't add more than 120 damage in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/pgo/48.png",
+      "large": "https://images.pokemontcg.io/pgo/48_hires.png"
+    }
+  },
+  {
+    "id": "swsh11-49",
+    "name": "Kyurem VMAX",
+    "hp": "330",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Kyurem V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Glaciated World",
+        "text": "Once during your turn, you may discard the top card of your deck. If that card is a Water Energy card, attach it to 1 of your Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Frost",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120+",
+        "text": "You may discard any amount of Water Energy from this Pokémon. This attack does 50 more damage for each card you discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/49.png",
+      "large": "https://images.pokemontcg.io/swsh11/49_hires.png"
+    }
+  },
+  {
+    "id": "swsh11tg-TG15",
+    "name": "Centiskorch VMAX",
+    "hp": "320",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Centiskorch V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Centiferno",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40+",
+        "text": "This attack does 40 more damage for each Fire Energy attached to this Pokémon. If you did any damage with this attack, you may attach a Fire Energy card from your discard pile to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11tg/TG15.png",
+      "large": "https://images.pokemontcg.io/swsh11tg/TG15_hires.png"
+    }
+  },
+  {
+    "id": "swsh11tg-TG17",
+    "name": "Pikachu VMAX",
+    "hp": "310",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Pikachu V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Volt Tackle",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120+",
+        "text": "You may discard all Energy from this Pokémon. If you do, this attack does 150 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11tg/TG17.png",
+      "large": "https://images.pokemontcg.io/swsh11tg/TG17_hires.png"
+    }
+  },
+  {
+    "id": "swsh12-58",
+    "name": "Regieleki VMAX",
+    "hp": "310",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Regieleki V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Transistor",
+        "text": "Your Basic Lightning Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Thunder and Lightning",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "220",
+        "text": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12/58.png",
+      "large": "https://images.pokemontcg.io/swsh12/58_hires.png"
+    }
+  },
+  {
+    "id": "swsh11tg-TG13",
+    "name": "Orbeetle VMAX",
+    "hp": "310",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Orbeetle V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Eerie Beam",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may put 1 damage counter on each of your opponent's Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Wave",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50+",
+        "text": "This attack does 50 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11tg/TG13.png",
+      "large": "https://images.pokemontcg.io/swsh11tg/TG13_hires.png"
+    }
+  },
+  {
+    "id": "swsh11tg-TG22",
+    "name": "Eternatus VMAX",
+    "hp": "340",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Eternatus V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Eternal Zone",
+        "text": "If all of your Pokémon in play are Darkness type, you can have up to 8 Pokémon on your Bench, and you can't put non-Darkness Pokémon into play. (If this Ability stops working, discard Pokémon from your Bench until you have 5.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Dread End",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "This attack does 30 damage for each of your Darkness Pokémon in play."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11tg/TG22.png",
+      "large": "https://images.pokemontcg.io/swsh11tg/TG22_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG15",
+    "name": "Blaziken VMAX",
+    "hp": "320",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Blaziken V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Clutch",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      },
+      {
+        "name": "Max Blaze",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "130",
+        "text": "Choose up to 2 of your Benched Rapid Strike Pokémon and attach an Energy card from your discard pile to each of them."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG15.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG15_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG19",
+    "name": "Corviknight VMAX",
+    "hp": "320",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Corviknight V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Lustrous Body",
+        "text": "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Hurricane",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "240",
+        "text": "During your next turn, this Pokémon can't use G-Max Hurricane."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG19.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG19_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG21",
+    "name": "Duraludon VMAX",
+    "hp": "330",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Duraludon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Skyscraper",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have Special Energy attached.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Pulverization",
+        "cost": [
+          "Fighting",
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "220",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG21.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG21_hires.png"
+    }
+  },
+  {
+    "id": "swsh12tg-TG20",
+    "name": "Rayquaza VMAX",
+    "hp": "320",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Rayquaza V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Azure Pulse",
+        "text": "Once during your turn, you may discard your hand and draw 3 cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Burst",
+        "cost": [
+          "Fire",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12tg/TG20.png",
+      "large": "https://images.pokemontcg.io/swsh12tg/TG20_hires.png"
+    }
+  },
+  {
+    "id": "swsh12pt5-66",
+    "name": "Hatterene VMAX",
+    "hp": "320",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Hatterene V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Witch's Domain",
+        "text": "Once during your turn, you may move up to 2 damage counters from your Pokémon to your opponent's Active Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Smite",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/66.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/66_hires.png"
+    }
+  },
+  {
+    "id": "swsh12pt5-102",
+    "name": "Rayquaza VMAX",
+    "hp": "320",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Rayquaza V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Azure Pulse",
+        "text": "Once during your turn, you may discard your hand and draw 3 cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Burst",
+        "cost": [
+          "Fire",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/102.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/102_hires.png"
+    }
+  },
+  {
+    "id": "swsh12pt5-54",
+    "name": "Zeraora VMAX",
+    "hp": "320",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Zeraora V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Reactive Pulse",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60×",
+        "text": "This attack does 60 damage for each of your opponent's Pokémon in play that has an Ability."
+      },
+      {
+        "name": "Max Fist",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "240",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/54.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/54_hires.png"
+    }
+  },
+  {
+    "id": "swsh12pt5-101",
+    "name": "Rayquaza VMAX",
+    "hp": "320",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Rayquaza V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Azure Pulse",
+        "text": "Once during your turn, you may discard your hand and draw 3 cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Burst",
+        "cost": [
+          "Fire",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/101.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/101_hires.png"
+    }
+  },
+  {
+    "id": "swsh12pt5-104",
+    "name": "Duraludon VMAX",
+    "hp": "330",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Duraludon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Skyscraper",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have Special Energy attached.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Pulverization",
+        "cost": [
+          "Fighting",
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "220",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5/104.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5/104_hires.png"
+    }
+  },
+  {
+    "id": "swsh12pt5gg-GG47",
+    "name": "Hatterene VMAX",
+    "hp": "320",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Hatterene V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Witch's Domain",
+        "text": "Once during your turn, you may move up to 2 damage counters from your Pokémon to your opponent's Active Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "G-Max Smite",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5gg/GG47.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5gg/GG47_hires.png"
+    }
+  },
+  {
+    "id": "swsh12pt5gg-GG45",
+    "name": "Deoxys VMAX",
+    "hp": "330",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Deoxys V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Protective DNA",
+        "text": "All of your Pokémon take 30 less damage from attacks from your opponent's Pokémon VSTAR (after applying Weakness and Resistance).",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Drain",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": "Heal 30 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5gg/GG45.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5gg/GG45_hires.png"
+    }
+  },
+  {
+    "id": "swsh12pt5gg-GG42",
+    "name": "Zeraora VMAX",
+    "hp": "320",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Zeraora V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Reactive Pulse",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60×",
+        "text": "This attack does 60 damage for each of your opponent's Pokémon in play that has an Ability."
+      },
+      {
+        "name": "Max Fist",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "240",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo VMAX",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12pt5gg/GG42.png",
+      "large": "https://images.pokemontcg.io/swsh12pt5gg/GG42_hires.png"
+    }
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "ex12-90",
+    "name": "Regice ★",
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Ice Barrier",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Prevent all effects of an attack, including damage, done to Regice Star by your opponent's Pokémon-ex during your opponent's next turn."
+      },
+      {
+        "name": "Final Blizzard",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "If your opponent has only 1 Prize card left and Regice Star is the only Pokémon you have in play, this attack does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex12/90.png",
+      "large": "https://images.pokemontcg.io/ex12/90_hires.png"
+    }
+  },
+  {
+    "id": "ex12-91",
+    "name": "Regirock ★",
+    "hp": "90",
+    "types": [
+      "Fighting"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Dig Drain",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Remove 1 damage counter from Regirock Star."
+      },
+      {
+        "name": "Final Blast",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "If your opponent has only 1 Prize card left and Regirock Star is the only Pokémon you have in play, this attack's base damage is 100 instead of 30."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex12/91.png",
+      "large": "https://images.pokemontcg.io/ex12/91_hires.png"
+    }
+  },
+  {
+    "id": "ex12-92",
+    "name": "Registeel ★",
+    "hp": "90",
+    "types": [
+      "Metal"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Barrier Attack",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "During your opponent's next turn, any damage done to Registeel Star by attacks is reduced by 10 (after applying Weakness and Resistance)."
+      },
+      {
+        "name": "Final Laser",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Put 3 damage counters on your opponent's Pokémon in any way you like. If your opponent has only 1 Prize card left and Registeel Star is the only Pokémon you have in play, put 6 damage counters instead."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex12/92.png",
+      "large": "https://images.pokemontcg.io/ex12/92_hires.png"
+    }
+  },
+  {
+    "id": "ex13-102",
+    "name": "Gyarados ★ δ",
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Spiral Growth",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Flip a coin until you get tails. For each heads, search your discard pile for a basic Energy card and attach it to Gyarados Star."
+      },
+      {
+        "name": "All-out Blast",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "50+",
+        "text": "Discard cards from the top of your deck until you have 1 card left. This attack does 50 damage plus 20 more damage for each Energy card you discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex13/102.png",
+      "large": "https://images.pokemontcg.io/ex13/102_hires.png"
+    }
+  },
+  {
+    "id": "ex13-104",
+    "name": "Pikachu ★",
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Thundershock",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Spring Back",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "If your opponent has only 1 Prize card left, this attack does 20 damage plus 50 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex13/104.png",
+      "large": "https://images.pokemontcg.io/ex13/104_hires.png"
+    }
+  },
+  {
+    "id": "ex13-103",
+    "name": "Mewtwo ★",
+    "hp": "80",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Energy Absorption",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your discard pile for an Energy card and attached it to Mewtwo Star."
+      },
+      {
+        "name": "Psychic Star",
+        "cost": [
+          "Fire",
+          "Lightning",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50+",
+        "text": "If the Defending Pokémon is an Evolved Pokémon, discard all Energy attached to Mewtwo Star and this attack does 50 damage plus 50 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex13/103.png",
+      "large": "https://images.pokemontcg.io/ex13/103_hires.png"
+    }
+  },
+  {
+    "id": "ex14-100",
+    "name": "Celebi ★",
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "abilities": [
+      {
+        "name": "Time Travel",
+        "text": "If Celebi Star would be Knocked Out by damage from an opponent's attack, you may flip a coin. If heads, Celebi Star is not Knocked Out, discard all cards attached to Celebi Star, and put Celebi Star on the bottom of your deck.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Leaf Shade",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Count the amount of Energy attached to Celebi Star. Put that many damage counters on 1 of your opponent's Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex14/100.png",
+      "large": "https://images.pokemontcg.io/ex14/100_hires.png"
+    }
+  },
+  {
+    "id": "ex14-99",
+    "name": "Alakazam ★",
+    "hp": "80",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Psychic Select",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Put any 1 card from your discard pile into your hand."
+      },
+      {
+        "name": "Skill Copy",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Discard a Basic Pokémon or Evolution card from your hand. Choose 1 of that card's attacks. Skill Copy copies this attack. This attack does nothing if Alakazam Star doesn't have the Energy necessary to use that attack. (You must still do anything else required for that attack.) Alakazam Star performs that attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex14/99.png",
+      "large": "https://images.pokemontcg.io/ex14/99_hires.png"
+    }
+  },
+  {
+    "id": "ex16-100",
+    "name": "Flareon ★",
+    "hp": "70",
+    "types": [
+      "Fire"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "abilities": [
+      {
+        "name": "Crimson Ray",
+        "text": "Once during your turn, when you put Flareon Star from your hand onto your Bench, you may use this power. Each Active Pokémon (both yours and your opponent's) is now Burned.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Flamethrower",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "Discard a Fire Energy attached to Flareon Star."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex16/100.png",
+      "large": "https://images.pokemontcg.io/ex16/100_hires.png"
+    }
+  },
+  {
+    "id": "ex8-105",
+    "name": "Latias ★",
+    "hp": "80",
+    "types": [
+      "Colorless"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Healing Light",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Remove 1 damage counter from each of your Pokémon (including Latias Star)."
+      },
+      {
+        "name": "Shooting Star",
+        "cost": [
+          "Fire",
+          "Water",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50+",
+        "text": "If the Defending Pokémon is Pokémon-ex, discard all Energy cards attached to Latias Star and this attack does 50 damage plus 100 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex8/105.png",
+      "large": "https://images.pokemontcg.io/ex8/105_hires.png"
+    }
+  },
+  {
+    "id": "ex8-106",
+    "name": "Latios ★",
+    "hp": "80",
+    "types": [
+      "Colorless"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Miraculous Light",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Remove 1 damage counter and all Special Conditions from Latios Star."
+      },
+      {
+        "name": "Shining Star",
+        "cost": [
+          "Grass",
+          "Lightning",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50+",
+        "text": "If the Defending Pokémon is a Stage 2 Evolved Pokémon, discard all Energy cards attached to Latios Star and this attack does 50 damage plus 100 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex8/106.png",
+      "large": "https://images.pokemontcg.io/ex8/106_hires.png"
+    }
+  },
+  {
+    "id": "ex8-107",
+    "name": "Rayquaza ★",
+    "hp": "90",
+    "types": [
+      "Colorless"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Spiral Rush",
+        "cost": [
+          "Fire",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
+      },
+      {
+        "name": "Holy Star",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "",
+        "text": "Discard all Energy cards attached to Rayquaza Star. This attack does 100 damage to each of your opponent's Pokémon-ex. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex8/107.png",
+      "large": "https://images.pokemontcg.io/ex8/107_hires.png"
+    }
+  },
+  {
+    "id": "ex16-101",
+    "name": "Jolteon ★",
+    "hp": "70",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "abilities": [
+      {
+        "name": "Yellow Ray",
+        "text": "Once during your turn, when you put Jolteon Star from your hand onto your Bench, you may put 1 damage counter on each Active Pokémon (both yours and your opponent's).",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Agility",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Jolteon Star during your opponent's next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex16/101.png",
+      "large": "https://images.pokemontcg.io/ex16/101_hires.png"
+    }
+  },
+  {
+    "id": "ex16-102",
+    "name": "Vaporeon ★",
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "abilities": [
+      {
+        "name": "Blue Ray",
+        "text": "Once during your turn, when you put Vaporeon Star from your hand onto your Bench, you may remove all Special Conditions and 3 damage counters from each Active Pokémon (both yours and your opponent's).",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Whirlpool",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex16/102.png",
+      "large": "https://images.pokemontcg.io/ex16/102_hires.png"
+    }
+  },
+  {
+    "id": "ex7-107",
+    "name": "Mudkip ★",
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Whirlpool",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+      },
+      {
+        "name": "Spring Back",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "If your opponent has only 1 Prize card left, this attack does 20 damage plus 50 more damage and the Defending Pokémon is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex7/107.png",
+      "large": "https://images.pokemontcg.io/ex7/107_hires.png"
+    }
+  },
+  {
+    "id": "ex7-108",
+    "name": "Torchic ★",
+    "hp": "70",
+    "types": [
+      "Fire"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Fireworks",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Flip a coin. If tails, discard a Fire Energy card attached to Torchic Star."
+      },
+      {
+        "name": "Spring Back",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "If your opponent has only 1 Prize card left, this attack does 20 damage plus 50 more damage and the Defending Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex7/108.png",
+      "large": "https://images.pokemontcg.io/ex7/108_hires.png"
+    }
+  },
+  {
+    "id": "ex7-109",
+    "name": "Treecko ★",
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Spring Back",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "If your opponent has only 1 Prize card left, this attack does 20 damage plus 50 more damage and the Defending Pokémon is now Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex7/109.png",
+      "large": "https://images.pokemontcg.io/ex7/109_hires.png"
+    }
+  },
+  {
+    "id": "ex10-113",
+    "name": "Entei ★",
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Burning Turn",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Switch Entei Star with 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Detonation",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": "If you have less Prize cards left than your opponent, discard the top 10 cards from your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex10/113.png",
+      "large": "https://images.pokemontcg.io/ex10/113_hires.png"
+    }
+  },
+  {
+    "id": "ex11-113",
+    "name": "Metagross ★",
+    "hp": "90",
+    "types": [
+      "Metal"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Critical Collection",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Count the number of Prize cards your opponent has taken. Search your discard pile for up to that many Metal Energy cards and attach them to Metagross Star."
+      },
+      {
+        "name": "Hyper Beam",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "50",
+        "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex11/113.png",
+      "large": "https://images.pokemontcg.io/ex11/113_hires.png"
+    }
+  },
+  {
+    "id": "ex10-114",
+    "name": "Raikou ★",
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Lightning Turn",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Switch Raikou Star with 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Meta Voltage",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": "If you have less Prize cards left than your opponent, this attack does 40 damage to each of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex10/114.png",
+      "large": "https://images.pokemontcg.io/ex10/114_hires.png"
+    }
+  },
+  {
+    "id": "ex15-100",
+    "name": "Charizard ★ δ",
+    "hp": "90",
+    "types": [
+      "Darkness"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Rotating Claws",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "You may discard an Energy card attached to Charizard Star. If you do, search your discard pile for an Energy card (excluding the one you discarded) and attach it to Charizard Star."
+      },
+      {
+        "name": "Dark Swirl",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "150",
+        "text": "Discard all Energy cards attached to Charizard Star and discard the top 3 cards from your opponent's deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex15/100.png",
+      "large": "https://images.pokemontcg.io/ex15/100_hires.png"
+    }
+  },
+  {
+    "id": "ex15-101",
+    "name": "Mew ★ δ",
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Mimicry",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Choose an attack on 1 of your opponent's Pokémon in play. Mimicry copies that attack. This attack does nothing if Mew Star doesn't have the Energy necessary to use that attack. (You must still do anything else required for that attack.) Mew Star performs that attack."
+      },
+      {
+        "name": "Rainbow Wave",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Choose 1 basic Energy card attached to Mew Star. This attack does 20 damage to each of your opponent's Pokémon that is the same type as the basic Energy card that you chose. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex15/101.png",
+      "large": "https://images.pokemontcg.io/ex15/101_hires.png"
+    }
+  },
+  {
+    "id": "ex10-115",
+    "name": "Suicune ★",
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Splashing Turn",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Switch Suicune Star with 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Cross Wind",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": "If you have less Prize cards left than your opponent, discard all Energy cards attached to all of your Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex10/115.png",
+      "large": "https://images.pokemontcg.io/ex10/115_hires.png"
+    }
+  },
+  {
+    "id": "ex11-111",
+    "name": "Groudon ★",
+    "hp": "90",
+    "types": [
+      "Fighting"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Critical Collection",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Count the number of Prize cards your opponent has taken. Search your discard pile for up to that many Fighting Energy cards and attach them to Groudon Star."
+      },
+      {
+        "name": "Ground Slash",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "80",
+        "text": "Discard a Fighting Energy card attached to Groudon Star."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex11/111.png",
+      "large": "https://images.pokemontcg.io/ex11/111_hires.png"
+    }
+  },
+  {
+    "id": "ex11-112",
+    "name": "Kyogre ★",
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "You can't have more than 1 Pokémon Star in your deck."
+    ],
+    "attacks": [
+      {
+        "name": "Critical Collection",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Count the number of Prize cards your opponent has taken. Search your discard pile for up to that many Water Energy cards and attach them to Kyogre Star."
+      },
+      {
+        "name": "Sheer Cold",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "60",
+        "text": "Flip a coin. If heads, each Defending Pokémon can't attack during your opponent's next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "rarity": "Rare Holo Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/ex11/112.png",
+      "large": "https://images.pokemontcg.io/ex11/112_hires.png"
+    }
+  }
+]
